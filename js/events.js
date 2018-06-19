@@ -19,7 +19,7 @@ function pressIt() {
 }
 
 function submitIt() {
-  $().on('', function() {
+  $('form').on('', function() {
     
   })
 }
